@@ -13,6 +13,10 @@ Hungary
 <a href="https://keybase.io/kernelv0id">
 <span class="username">kernelv0id</span>
 </a>  
+![Reddit](https://albertzsigovits.github.io/assets/img/reddit.png)
+<a href="https://reddit.com/user/kernelv0id">
+<span class="username">kernelv0id</span>
+</a>  
 ![Twitter](https://albertzsigovits.github.io/assets/img/twitter.png)
 <a href="https://twitter.com/albertzsigovits">
 <span class="username">albertzsigovits</span>
