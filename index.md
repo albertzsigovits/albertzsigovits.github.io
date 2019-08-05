@@ -22,6 +22,10 @@ Hungary
 <a href="https://reddit.com/user/kernelv0id">
 <span class="username">kernelv0id</span>
 </a>  
+![Slack](https://albertzsigovits.github.io/assets/img/slack.png)
+<a href="https://slack.com/signin">
+<span class="username">kernelv0id</span>
+</a>  
 ![Twitter](https://albertzsigovits.github.io/assets/img/twitter.png)
 <a href="https://twitter.com/albertzsigovits">
 <span class="username">albertzsigovits</span>
