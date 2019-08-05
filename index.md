@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-## Research:
+## Research  
 
 [DarkRATv2](./darkratv2.md)
 
-## About me: 
+## About me  
 
 Threat Researcher @ SophosLabs  
 Hungary

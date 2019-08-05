@@ -5,3 +5,5 @@ layout: default
 ## DarkRATv2  
 
 ![DarkRATv2](https://raw.githubusercontent.com/albertzsigovits/malware-writeups/master/DarkRATv2/darkratv2.png)  
+
+### Releasing: 12.08.2019  
