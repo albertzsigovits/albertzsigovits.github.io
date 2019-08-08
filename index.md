@@ -3,7 +3,7 @@ layout: default
 ---
 ## Research  
 
-[Baldr](./baldr.md)  
+[Baldr](https://github.com/albertzsigovits/malware-writeups/tree/master/Baldr)  
 [DarkRATv2](./darkratv2.md)
 
 ## About me  
