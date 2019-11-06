@@ -9,7 +9,7 @@ layout: default
 ## About me  
 
 Threat Researcher @ SophosLabs  
-Hungary
+Hungary  
 
 ![Github](https://albertzsigovits.github.io/assets/img/github.png)
 <a href="https://github.com/albertzsigovits">
