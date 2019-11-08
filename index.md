@@ -31,3 +31,7 @@ Hungary
 <a href="https://slack.com/signin">
 <span class="username">kernelv0id</span>
 </a>  
+![Discord](https://albertzsigovits.github.io/assets/img/discord.png)
+<a href="https://discordapp.com/login">
+<span class="username">kernelv0id</span>
+</a>  
