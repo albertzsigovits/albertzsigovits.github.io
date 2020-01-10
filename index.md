@@ -6,6 +6,10 @@ layout: default
 [Baldr](https://github.com/albertzsigovits/malware-writeups/tree/master/Baldr)  
 [DarkRATv2](https://github.com/albertzsigovits/malware-writeups/tree/master/DarkRATv2)  
 
+## Award
+
+[Top 32 Influential Malware Research Professional](https://static.peerlyst.com/image/upload/v1576213159/post-attachments/32_Influential_Malware_Research_Professionals_pkrtnw)  
+
 ## About me  
 
 Threat Researcher @ SophosLabs  
