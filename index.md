@@ -19,6 +19,10 @@ Hungary
 <a href="https://twitter.com/albertzsigovits">
 <span class="username">albertzsigovits</span>
 </a>  
+![Peerlyst](https://albertzsigovits.github.io/assets/img/peerlyst.png)
+<a href="https://www.peerlyst.com/users/albert-zsigovits/">
+<span class="username">albertzsigovits</span>
+</a>  
 ![Keybase](https://albertzsigovits.github.io/assets/img/keybase.png)
 <a href="https://keybase.io/kernelv0id">
 <span class="username">kernelv0id</span>
