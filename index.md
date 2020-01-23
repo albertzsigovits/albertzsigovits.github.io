@@ -6,9 +6,10 @@ layout: default
 [Baldr](https://github.com/albertzsigovits/malware-writeups/tree/master/Baldr)  
 [DarkRATv2](https://github.com/albertzsigovits/malware-writeups/tree/master/DarkRATv2)  
 
-## Award
+## Honor and Award
 
 [Top 32 Influential Malware Research Professional](https://static.peerlyst.com/image/upload/v1576213159/post-attachments/32_Influential_Malware_Research_Professionals_pkrtnw)  
+[Got featured in Bleepingcomputer's weekly ransomware news](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-17th-2020-never-ends/)  
 
 ## About me  
 
