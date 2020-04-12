@@ -1,10 +1,14 @@
 ---
 layout: default
 ---
+## Projects
+Zion - IoT Malware Vault
+
 ## Research  
 
 [Baldr](https://github.com/albertzsigovits/malware-writeups/tree/master/Baldr)  
 [DarkRATv2](https://github.com/albertzsigovits/malware-writeups/tree/master/DarkRATv2)  
+[LockBit](https://github.com/albertzsigovits/malware-writeups/tree/master/LockBit)  
 
 ## Honor and Award
 
@@ -15,7 +19,7 @@ layout: default
 ## About me  
 
 Threat Researcher @ SophosLabs  
-Hungary  
+Europe (EU)  
 
 ![Github](https://albertzsigovits.github.io/assets/img/github.png)
 <a href="https://github.com/albertzsigovits">
