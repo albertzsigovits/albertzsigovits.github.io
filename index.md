@@ -19,8 +19,9 @@ Zion - IoT Malware Vault
 
 ## About me  
 
-Threat Researcher @ SophosLabs  
+IoT Malware Researcher @ CUJO AI  
 Europe (EU)  
+GPG: 8C4A5EFE253F05B5  
 
 ![Github](https://albertzsigovits.github.io/assets/img/github.png)
 <a href="https://github.com/albertzsigovits">
