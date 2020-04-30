@@ -21,7 +21,7 @@ Zion - IoT Malware Vault
 
 IoT Malware Researcher @ CUJO AI  
 Europe (EU)  
-GPG: 8C4A5EFE253F05B5  
+[GPG: 0x8C4A5EFE253F05B5](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x8C4A5EFE253F05B5)  
 
 ![Github](https://albertzsigovits.github.io/assets/img/github.png)
 <a href="https://github.com/albertzsigovits">
