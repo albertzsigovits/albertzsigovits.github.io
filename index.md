@@ -3,12 +3,13 @@ layout: default
 ---
 ## Research  
 
-[Baldr](https://github.com/albertzsigovits/malware-writeups/tree/master/Baldr)  
-[DarkRATv2](https://github.com/albertzsigovits/malware-writeups/tree/master/DarkRATv2)  
 [LockBit](https://github.com/albertzsigovits/malware-writeups/tree/master/LockBit)  
+[DarkRATv2](https://github.com/albertzsigovits/malware-writeups/tree/master/DarkRATv2)  
+[Baldr](https://github.com/albertzsigovits/malware-writeups/tree/master/Baldr)  
 
-## Mentions  
+## Awards, Honor and Mentions  
 
+[1st place at FIRSTSecLounge CTF 2020](https://www.first.org/resources/papers/ctf-jun2020/last4ofus.pdf)  
 [Top 32 Influential Malware Research Professional - 2019](https://static.peerlyst.com/image/upload/v1576213159/post-attachments/32_Influential_Malware_Research_Professionals_pkrtnw)  
 [The week in ransomware - Bleepingcomputer - Jan 17 2020](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-17th-2020-never-ends/)  
 [The week in ransomware - Bleepingcomputer - Jan 31 2020](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-31st-2020-taking-it-to-the-courts/)  
@@ -19,6 +20,8 @@ layout: default
 IoT Malware Researcher @ CUJO AI  
 Europe (EU)  
 [GPG: 0x8C4A5EFE253F05B5](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x8C4A5EFE253F05B5)  
+
+## Profiles  
 
 ![Github](https://albertzsigovits.github.io/assets/img/github.png)
 <a href="https://github.com/albertzsigovits">
