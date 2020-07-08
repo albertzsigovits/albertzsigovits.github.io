@@ -3,6 +3,7 @@ layout: default
 ---
 ## Research  
 
+[Genetics of a modern IoT attack](https://cujo.com/genetics-of-a-modern-iot-attack/)  
 [LockBit](https://github.com/albertzsigovits/malware-writeups/tree/master/LockBit)  
 [DarkRATv2](https://github.com/albertzsigovits/malware-writeups/tree/master/DarkRATv2)  
 [Baldr](https://github.com/albertzsigovits/malware-writeups/tree/master/Baldr)  
