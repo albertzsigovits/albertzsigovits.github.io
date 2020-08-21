@@ -3,6 +3,7 @@ layout: default
 ---
 ## Research  
 
+[UPX anti-unpacking techniques in IoT malware](https://cujo.com/upx-anti-unpacking-techniques-in-iot-malware/)  
 [Genetics of a modern IoT attack](https://cujo.com/genetics-of-a-modern-iot-attack/)  
 [LockBit](https://github.com/albertzsigovits/malware-writeups/tree/master/LockBit)  
 [DarkRATv2](https://github.com/albertzsigovits/malware-writeups/tree/master/DarkRATv2)  
