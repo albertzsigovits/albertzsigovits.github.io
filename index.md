@@ -5,9 +5,9 @@ layout: default
 
 [UPX anti-unpacking techniques in IoT malware](https://cujo.com/upx-anti-unpacking-techniques-in-iot-malware/)  
 [Genetics of a modern IoT attack](https://cujo.com/genetics-of-a-modern-iot-attack/)  
-[LockBit](https://github.com/albertzsigovits/malware-writeups/tree/master/LockBit)  
+[LockBit](https://news.sophos.com/en-us/2020/04/24/lockbit-ransomware-borrows-tricks-to-keep-up-with-revil-and-maze/)  
+[Baldr](https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/baldr-vs-the-world.pdf)  
 [DarkRATv2](https://github.com/albertzsigovits/malware-writeups/tree/master/DarkRATv2)  
-[Baldr](https://github.com/albertzsigovits/malware-writeups/tree/master/Baldr)  
 
 ## Awards, Honor and Mentions  
 
