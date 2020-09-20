@@ -14,9 +14,16 @@ layout: default
 [1st place at FIRSTSecLounge CTF 2020](https://www.first.org/resources/papers/ctf-jun2020/last4ofus.pdf)  
 [Blog: 1st place at FIRST CTF 2020](https://cujo.com/cujo-ai-labs-won-first-2020-virtual-challenge-competition/)  
 [Top 32 Influential Malware Research Professional - 2019](https://static.peerlyst.com/image/upload/v1576213159/post-attachments/32_Influential_Malware_Research_Professionals_pkrtnw)  
-[The week in ransomware - Bleepingcomputer - Jan 17 2020](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-17th-2020-never-ends/)  
-[The week in ransomware - Bleepingcomputer - Jan 31 2020](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-31st-2020-taking-it-to-the-courts/)  
+[The path that leads from gaming cheats to malware](https://www.zdnet.com/article/security-blocking-the-path-that-leads-from-gaming-cheats-to-malware/)  
 [Valorant Beta scam distributes malware - Toms Guide - Apr 16 2020](https://www.tomsguide.com/uk/news/valorant-beta-keygen-malware)  
+[The week in ransomware - Bleepingcomputer - Jan 31 2020](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-31st-2020-taking-it-to-the-courts/)  
+[The week in ransomware - Bleepingcomputer - Jan 17 2020](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-17th-2020-never-ends/)  
+
+## Hungarian Media
+
+[Orosz eredetű kártevő támad Magyarországon is](https://computerworld.hu/biztonsag/orosz-eredetu-kartevo-tamad-magyarorszagon-is-267556.html)  
+[Csaló Apex Legends- és CS:GO-játékosok estek adathalászok csapdájába](https://www.gamestar.hu/hir/apex-legends-csgo-csalas-adatlopas-267091.html)  
+[Több száz CS:GO és Apex Legends csaló banki adatait lophatták el](https://esport1.hu/news/2019/08/15/csgo-counter-strike-apex-legends-csalok-banki-adatait-loptak-el-malware-oroberto)  
 
 ## About me  
 
