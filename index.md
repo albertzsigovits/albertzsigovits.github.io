@@ -20,7 +20,7 @@ layout: default
 [The week in ransomware - Bleepingcomputer - Jan 17 2020](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-17th-2020-never-ends/)  
 [Top 32 Influential Malware Research Professional 2019](https://static.peerlyst.com/image/upload/v1576213159/post-attachments/32_Influential_Malware_Research_Professionals_pkrtnw)  
 
-## Conferences
+## Conference talks
 
 [Hacktivity 2020 - Reversing Golang binaries with Ghidra](https://www.youtube.com/watch?v=_58WmVLALek)  
 [Disobey.Fi 2020 - DarkRatV2: Hunting Down Malicious Rodents](https://www.youtube.com/watch?v=7QfHX8aytTM)  
