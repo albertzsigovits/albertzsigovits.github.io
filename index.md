@@ -25,7 +25,6 @@ layout: default
 [Hacktivity 2020 - Reversing Golang binaries with Ghidra](https://www.youtube.com/watch?v=_58WmVLALek)  
 [Disobey.Fi 2020 - DarkRatV2: Hunting Down Malicious Rodents](https://www.youtube.com/watch?v=7QfHX8aytTM)  
 [SEC-T 0x0C: - Baldr vs The World](https://www.youtube.com/watch?v=k8mhjkBBw7w)  
-[BSidesVienna2019]()  
 
 ## Hungarian Media
 
