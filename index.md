@@ -3,7 +3,7 @@ layout: default
 ---
 ## Research  
 
-[]()  
+[DNS Hijacking Attacks on Home Routers in Brazil](https://cujo.com/dns-hijacking-attacks-on-home-routers-in-brazil/)  
 [UPX anti-unpacking techniques in IoT malware](https://cujo.com/upx-anti-unpacking-techniques-in-iot-malware/)  
 [Genetics of a modern IoT attack](https://cujo.com/genetics-of-a-modern-iot-attack/)  
 [LockBit](https://news.sophos.com/en-us/2020/04/24/lockbit-ransomware-borrows-tricks-to-keep-up-with-revil-and-maze/)  
@@ -22,7 +22,7 @@ layout: default
 
 ## Conference talks
 
-[Hacktivity 2020 - Reversing Golang binaries with Ghidra](https://www.youtube.com/watch?v=_58WmVLALek)  
+[Hacktivity 2020 - Reversing Golang binaries with Ghidra](https://www.youtube.com/watch?v=_58WmVLALek&t=4h29m30s)  
 [Disobey.Fi 2020 - DarkRatV2: Hunting Down Malicious Rodents](https://www.youtube.com/watch?v=7QfHX8aytTM)  
 [SEC-T 0x0C: - Baldr vs The World](https://www.youtube.com/watch?v=k8mhjkBBw7w)  
 
