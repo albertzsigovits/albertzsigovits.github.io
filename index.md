@@ -28,7 +28,7 @@ layout: default
 
 ## Hungarian Media
 
-[NAV adathalász támadás magyar áldozatainak adatai kerültek nyilvánosságra](https://hup.hu/index.php/cikkek/20201016/nav_phishing_tamadas_magyar_aldozatainak_adatai_kerultek_nyilvanossagra)  
+[NAV adathalász támadás áldozatainak adatai kerültek nyilvánosságra](https://hup.hu/index.php/cikkek/20201016/nav_phishing_tamadas_magyar_aldozatainak_adatai_kerultek_nyilvanossagra)  
 [Hack és Lángos - HnLVIP017 - Albert és a Cujo AI](https://www.youtube.com/watch?v=O3mk8oRD-QI)  
 [Orosz eredetű kártevő támad Magyarországon is](https://computerworld.hu/biztonsag/orosz-eredetu-kartevo-tamad-magyarorszagon-is-267556.html)  
 [Csaló Apex Legends- és CS:GO-játékosok estek adathalászok csapdájába](https://www.gamestar.hu/hir/apex-legends-csgo-csalas-adatlopas-267091.html)  
