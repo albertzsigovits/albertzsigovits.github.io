@@ -56,6 +56,13 @@ Europe (EU)
 <a href="https://peerlyst.com/users/albert-zsigovits/">
 <span class="username">albertzsigovits</span>
 </a>  
+![LinkedIn](https://albertzsigovits.github.io/assets/img/linkedin.png)
+<a href="https://hu.linkedin.com/in/albertzsigovits">
+<span class="username">albertzsigovits</span>
+</a>  ![Linktree](https://albertzsigovits.github.io/assets/img/linktree.png)
+<a href="https://linktree.com/albertzsigovits">
+<span class="username">albertzsigovits</span>
+</a>  
 ![Keybase](https://albertzsigovits.github.io/assets/img/keybase.png)
 <a href="https://keybase.io/kernelv0id">
 <span class="username">kernelv0id</span>
