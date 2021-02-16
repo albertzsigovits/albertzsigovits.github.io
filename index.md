@@ -18,9 +18,12 @@ layout: default
 [Blog: 1st place at FIRST CTF 2020](https://cujo.com/cujo-ai-labs-won-first-2020-virtual-challenge-competition/)  
 [The path that leads from gaming cheats to malware](https://www.zdnet.com/article/security-blocking-the-path-that-leads-from-gaming-cheats-to-malware/)  
 [Valorant Beta scam distributes malware](https://www.tomsguide.com/uk/news/valorant-beta-keygen-malware)  
+[Someone is passing around malicious Valorant beta keys](https://www.cyberscoop.com/valorant-fake-beta-keys-riot-games/)  
 [The week in ransomware - Bleepingcomputer - Jan 31 2020](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-31st-2020-taking-it-to-the-courts/)  
 [The week in ransomware - Bleepingcomputer - Jan 17 2020](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-17th-2020-never-ends/)  
 [Top 32 Influential Malware Research Professional 2019](https://static.peerlyst.com/image/upload/v1576213159/post-attachments/32_Influential_Malware_Research_Professionals_pkrtnw)  
+[Cheaters in Apex Legends and CS:GO have their credit card details stolen](https://www.dexerto.com/csgo/cheaters-in-apex-legends-and-csgo-have-credit-card-details-stolen-911769/)  
+[Players Trying To Cheat At Apex And CS:GO get their data stolen](https://www.kotaku.com.au/2019/08/hundreds-of-players-trying-to-cheat-at-apex-legends-and-counter-strike-get-their-private-data-stolen/)  
 
 ## Conference talks
 
@@ -32,8 +35,9 @@ layout: default
 
 [NAV adathalász támadás áldozatainak adatai kerültek nyilvánosságra](https://hup.hu/index.php/cikkek/20201016/nav_phishing_tamadas_magyar_aldozatainak_adatai_kerultek_nyilvanossagra)  
 [Hack és Lángos - HnLVIP017 - Albert és a Cujo AI](https://www.youtube.com/watch?v=O3mk8oRD-QI)  
+[Magyar számítógépeket is fertőzni kezdett egy új orosz kártevő](https://pcforum.hu/hirek/21680/magyar-szamitogepeket-is-fertozni-kezdett-egy-uj-orosz-kartevo)  
 [Orosz eredetű kártevő támad Magyarországon is](https://computerworld.hu/biztonsag/orosz-eredetu-kartevo-tamad-magyarorszagon-is-267556.html)  
-[Csaló Apex Legends- és CS:GO-játékosok estek adathalászok csapdájába](https://www.gamestar.hu/hir/apex-legends-csgo-csalas-adatlopas-267091.html)  
+[Csaló Apex Legends/CSGO játékosok estek adathalászok csapdájába](https://www.gamestar.hu/hir/apex-legends-csgo-csalas-adatlopas-267091.html)  
 [Több száz CS:GO és Apex Legends csaló banki adatait lophatták el](https://esport1.hu/news/2019/08/15/csgo-counter-strike-apex-legends-csalok-banki-adatait-loptak-el-malware-oroberto)  
 
 ## About me  
