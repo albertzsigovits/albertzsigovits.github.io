@@ -3,6 +3,7 @@ layout: default
 ---
 ## Research  
 
+[UniFi Dream Machine Review](https://github.com/albertzsigovits/writeups/blob/main/unifi-udm/README.md)  
 [DNS Hijacking Attacks on Home Routers in Brazil](https://cujo.com/dns-hijacking-attacks-on-home-routers-in-brazil/)  
 [UPX anti-unpacking techniques in IoT malware](https://cujo.com/upx-anti-unpacking-techniques-in-iot-malware/)  
 [Genetics of a modern IoT attack](https://cujo.com/genetics-of-a-modern-iot-attack/)  
