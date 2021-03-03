@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Research  
+## Research and Analysis  
 
 [Corelight NSM@Home Review](https://github.com/albertzsigovits/writeups/blob/main/corelight-nsm-home/README.md)  
 [UniFi Dream Machine Review](https://github.com/albertzsigovits/writeups/blob/main/unifi-udm/README.md)  
@@ -12,7 +12,7 @@ layout: default
 [Baldr](https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/baldr-vs-the-world.pdf)  
 [DarkRATv2](https://github.com/albertzsigovits/malware-writeups/tree/master/DarkRATv2)  
 
-## Awards, Honor and Mentions  
+## Awards and Mentions  
 
 [DNS hijacking attacks in Brazil: Splunk Blog](https://www.splunk.com/en_us/blog/security/staff-picks-for-splunk-security-reading-february-2021.html)  
 [1st place at FIRSTSecLounge CTF 2020](https://www.first.org/resources/papers/ctf-jun2020/last4ofus.pdf)  
