@@ -3,6 +3,7 @@ layout: default
 ---
 ## Research and Analysis  
 
+[IoT Malware Journals: Prometei (Linux)](hhttps://cujo.com/iot-malware-journals-prometei-linux/)  
 [Corelight NSM@Home Review](https://github.com/albertzsigovits/writeups/blob/main/corelight-nsm-home/README.md)  
 [UniFi Dream Machine Review](https://github.com/albertzsigovits/writeups/blob/main/unifi-udm/README.md)  
 [DNS Hijacking Attacks on Home Routers in Brazil](https://cujo.com/dns-hijacking-attacks-on-home-routers-in-brazil/)  
