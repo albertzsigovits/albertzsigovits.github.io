@@ -45,7 +45,7 @@ layout: default
 
 ## About me  
 
-IoT Malware Researcher @ CUJO AI  
+Malware Researcher @ CUJO AI  
 Europe (EU)  
 [GPG: 0x8C4A5EFE253F05B5](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x8C4A5EFE253F05B5)  
 
