@@ -26,6 +26,7 @@ layout: default
 [Top 32 Influential Malware Research Professional 2019](https://static.peerlyst.com/image/upload/v1576213159/post-attachments/32_Influential_Malware_Research_Professionals_pkrtnw)  
 [Cheaters in Apex and CS:GO have their credit card details stolen](https://www.dexerto.com/csgo/cheaters-in-apex-legends-and-csgo-have-credit-card-details-stolen-911769/)  
 [Players Trying To Cheat At Apex And CS:GO get their data stolen](https://www.kotaku.com.au/2019/08/hundreds-of-players-trying-to-cheat-at-apex-legends-and-counter-strike-get-their-private-data-stolen/)  
+[HackTheBox Challenge Creator: Digital Cube](https://app.hackthebox.eu/challenges/24)  
 
 ## Conference talks
 
@@ -94,5 +95,8 @@ Europe (EU)
 </a>  
 ![Blogspot](https://albertzsigovits.github.io/assets/img/blogger.png)
 <a href="https://kernelv0id.blogspot.com">
+<span class="username">kernelv0id</span>
+</a>  ![HackTheBox](https://albertzsigovits.github.io/assets/img/htb.png)
+<a href="https://app.hackthebox.eu/profile/7718">
 <span class="username">kernelv0id</span>
 </a>  
