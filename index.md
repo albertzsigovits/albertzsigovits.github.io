@@ -15,6 +15,7 @@ layout: default
 
 ## Awards and Mentions  
 
+[UPX Fixer for corrupted UPX binaries](https://github.com/lcashdol/UPX/blob/main/upx_dec.c)  
 [DNS hijacking attacks in Brazil: Splunk Blog](https://www.splunk.com/en_us/blog/security/staff-picks-for-splunk-security-reading-february-2021.html)  
 [1st place at FIRSTSecLounge CTF 2020](https://www.first.org/resources/papers/ctf-jun2020/last4ofus.pdf)  
 [Blog: 1st place at FIRST CTF 2020](https://cujo.com/cujo-ai-labs-won-first-2020-virtual-challenge-competition/)  
