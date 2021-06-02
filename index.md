@@ -3,6 +3,7 @@ layout: default
 ---
 ## Research and Analysis  
 
+[Honeypot Journals: Credential Attacks](https://cujo.com/honeypot-journals-credential-attacks/)  
 [IoT Malware Journals: Prometei (Linux)](https://cujo.com/iot-malware-journals-prometei-linux/)  
 [Corelight NSM@Home Review](https://www.linkedin.com/pulse/corelight-nsmhome-review-part-1-albert-zsigovits)  
 [UniFi Dream Machine Review](https://www.linkedin.com/pulse/unifi-dream-machine-review-albert-zsigovits/)  
