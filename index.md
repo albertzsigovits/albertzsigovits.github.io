@@ -17,6 +17,7 @@ layout: default
 
 ## Awards and Mentions  
 
+[Analysis of threat data from the Mozi botnet](https://www.elastic.co/blog/collecting-and-operationalizing-threat-data-from-the-mozi-botnet)  
 [2nd place at FIRSTSecLounge CTF 2021](https://www.first.org/conference/2021/)  
 [UPX Fixer for corrupted UPX binaries](https://github.com/lcashdol/UPX/blob/main/upx_dec.c)  
 [DNS hijacking attacks in Brazil: Splunk Blog](https://www.splunk.com/en_us/blog/security/staff-picks-for-splunk-security-reading-february-2021.html)  
