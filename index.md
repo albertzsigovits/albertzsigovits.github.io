@@ -3,6 +3,7 @@ layout: default
 ---
 ## Research and Analysis  
 
+[New DDoS modules in Mirai/Gafgyt fork](https://cujo.com/mirai-gafgyt-with-new-ddos-modules-discovered/)  
 [IoT Chronicles - June](https://cujo.com/top-iot-security-threats-iot-chronicle-june/)  
 [Honeypot Journals: Credential Attacks](https://cujo.com/honeypot-journals-credential-attacks/)  
 [IoT Malware Journals: Prometei (Linux)](https://cujo.com/iot-malware-journals-prometei-linux/)  
