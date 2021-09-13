@@ -29,7 +29,7 @@ layout: default
 [Someone is passing around malicious Valorant beta keys](https://www.cyberscoop.com/valorant-fake-beta-keys-riot-games/)  
 [The week in ransomware - Bleepingcomputer - Jan 31 2020](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-31st-2020-taking-it-to-the-courts/)  
 [The week in ransomware - Bleepingcomputer - Jan 17 2020](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-17th-2020-never-ends/)  
-[Top 32 Influential Malware Research Professional 2019](https://static.peerlyst.com/image/upload/v1576213159/post-attachments/32_Influential_Malware_Research_Professionals_pkrtnw)  
+[Top 32 Influential Malware Research Professional 2019](https://chaosdorf.de/~barbieauglend/32_Malware_Research_Professionals_cz3lys.pdf)  
 [Cheaters in Apex and CS:GO have their credit card details stolen](https://www.dexerto.com/csgo/cheaters-in-apex-legends-and-csgo-have-credit-card-details-stolen-911769/)  
 [Players Trying To Cheat At Apex And CS:GO get their data stolen](https://www.kotaku.com.au/2019/08/hundreds-of-players-trying-to-cheat-at-apex-legends-and-counter-strike-get-their-private-data-stolen/)  
 [HackTheBox Challenge Creator: Digital Cube](https://app.hackthebox.eu/challenges/24)  
