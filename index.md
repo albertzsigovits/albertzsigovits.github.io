@@ -3,6 +3,7 @@ layout: default
 ---
 ## Research and Analysis  
 
+[IoT Chronicles - Summer](https://cujo.com/iot-chronicle-summer-2021/)  
 [Android Malware: an overview](https://cujo.com/android-malware/)  
 [New DDoS modules in Mirai/Gafgyt fork](https://cujo.com/mirai-gafgyt-with-new-ddos-modules-discovered/)  
 [IoT Chronicles - June](https://cujo.com/top-iot-security-threats-iot-chronicle-june/)  
