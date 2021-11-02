@@ -3,6 +3,7 @@ layout: default
 ---
 ## Research and Analysis  
 
+[Honeypot Journals: Residential Analysis](https://cujo.com/honeypot-journals-part-ii-attacks-on-residential-endpoints/)  
 [IoT Chronicles - Summer](https://cujo.com/iot-chronicle-summer-2021/)  
 [Android Malware: an overview](https://cujo.com/android-malware/)  
 [New DDoS modules in Mirai/Gafgyt fork](https://cujo.com/mirai-gafgyt-with-new-ddos-modules-discovered/)  
