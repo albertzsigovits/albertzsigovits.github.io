@@ -3,6 +3,7 @@ layout: default
 ---
 ## Research and Analysis  
 
+[Krane Malware](https://cujo.com/threat-alert-krane-malware/)  
 [Honeypot Journals: Residential Analysis](https://cujo.com/honeypot-journals-part-ii-attacks-on-residential-endpoints/)  
 [IoT Chronicles - Summer](https://cujo.com/iot-chronicle-summer-2021/)  
 [Android Malware: an overview](https://cujo.com/android-malware/)  
@@ -21,6 +22,7 @@ layout: default
 
 ## Awards and Mentions  
 
+[Campuscodi: Krane Malware](https://twitter.com/campuscodi/status/1459463800638242822)  
 [Analysis of threat data from the Mozi botnet](https://www.elastic.co/blog/collecting-and-operationalizing-threat-data-from-the-mozi-botnet)  
 [2nd place at FIRSTSecLounge CTF 2021](https://www.first.org/conference/2021/)  
 [UPX Fixer for corrupted UPX binaries](https://github.com/lcashdol/UPX/blob/main/upx_dec.c)  
