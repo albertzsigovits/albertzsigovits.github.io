@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Research and Analysis  
+## Research and Analysis
 
 [Krane Malware](https://cujo.com/threat-alert-krane-malware/)  
 [Honeypot Journals: Residential Analysis](https://cujo.com/honeypot-journals-part-ii-attacks-on-residential-endpoints/)  
@@ -20,7 +20,7 @@ layout: default
 [Baldr](https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/baldr-vs-the-world.pdf)  
 [DarkRATv2](https://github.com/albertzsigovits/malware-writeups/tree/master/DarkRATv2)  
 
-## Awards and Mentions  
+## Awards and Mentions
 
 [Campuscodi: Krane Malware](https://twitter.com/campuscodi/status/1459463800638242822)  
 [Analysis of threat data from the Mozi botnet](https://www.elastic.co/blog/collecting-and-operationalizing-threat-data-from-the-mozi-botnet)  
@@ -54,9 +54,9 @@ layout: default
 [Csaló Apex Legends/CSGO játékosok estek adathalászok csapdájába](https://www.gamestar.hu/hir/apex-legends-csgo-csalas-adatlopas-267091.html)  
 [Több száz CS:GO és Apex Legends csaló banki adatait lophatták el](https://esport1.hu/news/2019/08/15/csgo-counter-strike-apex-legends-csalok-banki-adatait-loptak-el-malware-oroberto)  
 
-## About me  
+## About me
 
-Malware Researcher @ CUJO AI  
+Cybersecurity Researcher @ Acronis  
 Europe (EU)  
 [GPG: 0x8C4A5EFE253F05B5](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x8C4A5EFE253F05B5)  
 
