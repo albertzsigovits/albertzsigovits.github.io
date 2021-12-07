@@ -41,6 +41,7 @@ layout: default
 
 ## Conference talks
 
+[VirusBulletin 2021 - Reversing Golang binaries with Ghidra](https://www.youtube.com/watch?v=PAG3M7mWT2c&t=15180s)  
 [Hacktivity 2020 - Reversing Golang binaries with Ghidra](https://www.youtube.com/watch?v=_58WmVLALek&t=4h29m30s)  
 [Disobey.Fi 2020 - DarkRatV2: Hunting Down Malicious Rodents](https://www.youtube.com/watch?v=7QfHX8aytTM)  
 [SEC-T 0x0C: - Baldr vs The World](https://www.youtube.com/watch?v=k8mhjkBBw7w)  
