@@ -22,9 +22,11 @@ layout: default
 
 ## Awards and Mentions
 
+[Amperesec: Top 10 passwords](https://www.amperesec.com/news/top-ten-most-entertaining-passwords)  
 [Campuscodi: Krane Malware](https://twitter.com/campuscodi/status/1459463800638242822)  
 [Analysis of threat data from the Mozi botnet](https://www.elastic.co/blog/collecting-and-operationalizing-threat-data-from-the-mozi-botnet)  
 [2nd place at FIRSTSecLounge CTF 2021](https://www.first.org/conference/2021/)  
+[Corelight@Home Guide](https://www.reddit.com/user/corelight_inc/comments/rqhrs3/who_is_on_your_home_network/?ref=readnext)  
 [UPX Fixer for corrupted UPX binaries](https://github.com/lcashdol/UPX/blob/main/upx_dec.c)  
 [DNS hijacking attacks in Brazil: Splunk Blog](https://www.splunk.com/en_us/blog/security/staff-picks-for-splunk-security-reading-february-2021.html)  
 [1st place at FIRSTSecLounge CTF 2020](https://www.first.org/resources/papers/ctf-jun2020/last4ofus.pdf)  
