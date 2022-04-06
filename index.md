@@ -3,6 +3,9 @@ layout: default
 ---
 ## Research and Analysis
 
+[Yanluowang Ransomware Analysis](https://github.com/albertzsigovits/malware-notes/tree/master/Ransomware-Windows-Yanluowang)  
+[Malware Mutant Collection](https://github.com/albertzsigovits/malware-mutex)  
+[Zeus v2.0.8.9 Analysis](https://github.com/albertzsigovits/malware-writeups/blob/master/Zeus/Zeus.pdf)  
 [Krane Malware](https://cujo.com/threat-alert-krane-malware/)  
 [Honeypot Journals: Residential Analysis](https://cujo.com/honeypot-journals-part-ii-attacks-on-residential-endpoints/)  
 [IoT Chronicles - Summer](https://cujo.com/iot-chronicle-summer-2021/)  
