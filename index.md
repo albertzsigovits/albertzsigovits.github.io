@@ -46,6 +46,7 @@ layout: default
 
 ## Conference talks
 
+Hacktivity 2022 - From Red to Black and Beyond: Evolution of a ransomware strain  
 [VirusBulletin 2021 - Reversing Golang binaries with Ghidra](https://www.youtube.com/watch?v=PAG3M7mWT2c&t=15180s)  
 [Hacktivity 2020 - Reversing Golang binaries with Ghidra](https://www.youtube.com/watch?v=_58WmVLALek&t=4h29m30s)  
 [Disobey.Fi 2020 - DarkRatV2: Hunting Down Malicious Rodents](https://www.youtube.com/watch?v=7QfHX8aytTM)  
