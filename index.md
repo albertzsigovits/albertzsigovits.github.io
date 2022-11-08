@@ -81,9 +81,9 @@ Europe (EU)
 ![Twitter](https://albertzsigovits.github.io/assets/img/twitter.png)
 <a href="https://twitter.com/albertzsigovits">
 <span class="username">albertzsigovits</span>
-</a> ![Peerlyst](https://albertzsigovits.github.io/assets/img/peerlyst.png)
-<a href="https://peerlyst.com/users/albert-zsigovits/">
-<span class="username">albertzsigovits</span>
+</a> ![Mastodon](https://albertzsigovits.github.io/assets/img/mastodon.png)
+<a href="https://infosec.exchange/@kernelv0id">
+<span class="username">kernelv0id</span>
 </a>  
 ![LinkedIn](https://albertzsigovits.github.io/assets/img/linkedin.png)
 <a href="https://hu.linkedin.com/in/albertzsigovits">
