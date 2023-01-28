@@ -3,6 +3,7 @@ layout: default
 ---
 ## Research and Analysis
 
+[Home Network Security Monitoring 101](https://www.linkedin.com/pulse/home-network-security-monitoring-101-albert-zsigovits)  
 [Yanluowang Ransomware Analysis](https://github.com/albertzsigovits/malware-notes/tree/master/Ransomware-Windows-Yanluowang)  
 [Malware Mutant Collection](https://github.com/albertzsigovits/malware-mutex)  
 [Zeus v2.0.8.9 Analysis](https://github.com/albertzsigovits/malware-writeups/blob/master/Zeus/Zeus.pdf)  
@@ -46,12 +47,12 @@ layout: default
 
 ## Conference talks
 
-AVAR 2022 - Evolution of a ransomware strain  
-Hacktivity 2022 - Evolution of a ransomware strain  
+[AVAR 2022 - Evolution of a ransomware strain](https://aavar.org/cybersecurity-conference/index.php/from-red-to-black-and-beyond-evolution-of-a-ransomware-strain/)  
+[Hacktivity 2022 - Evolution of a ransomware strain](https://www.youtube.com/watch?v=lOvXHkcd7vE)  
 [VirusBulletin 2021 - Reversing Golang binaries with Ghidra](https://www.youtube.com/watch?v=PAG3M7mWT2c&t=15180s)  
 [Hacktivity 2021 - Reversing Golang binaries with Ghidra](https://www.youtube.com/watch?v=_58WmVLALek&t=4h29m30s)  
 [Disobey.Fi 2020 - DarkRatV2: Hunting Down Malicious Rodents](https://www.youtube.com/watch?v=7QfHX8aytTM)  
-BsidesVienna 2019 - Baldr vs The World  
+[BsidesVienna 2019 - Baldr vs The World](https://cfp.bsidesvienna.at/bsv19/talk/7SLXUG/)  
 [SEC-T 0x0C 2019: - Baldr vs The World](https://www.youtube.com/watch?v=k8mhjkBBw7w)  
 
 ## Hungarian Media
