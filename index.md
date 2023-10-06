@@ -68,7 +68,7 @@ layout: default
 
 ## About me
 
-Cybersecurity Researcher @ Acronis  
+Senior Cybersecurity Researcher @ Acronis  
 Europe (EU)  
 [GPG: 0x8C4A5EFE253F05B5](http://pgp.mit.edu/pks/lookup?op=vindex&search=0x8C4A5EFE253F05B5)  
 
