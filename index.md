@@ -47,6 +47,7 @@ layout: default
 
 ## Conference talks
 
+[BSidesBUD 2023 - Memory Forensics 101 workshop](https://2023.bsidesbud.com/schedule/)  
 [AVAR 2022 - Evolution of a ransomware strain](https://aavar.org/cybersecurity-conference/index.php/from-red-to-black-and-beyond-evolution-of-a-ransomware-strain/)  
 [Hacktivity 2022 - Evolution of a ransomware strain](https://www.youtube.com/watch?v=lOvXHkcd7vE)  
 [VirusBulletin 2021 - Reversing Golang binaries with Ghidra](https://www.youtube.com/watch?v=PAG3M7mWT2c&t=15180s)  
@@ -57,12 +58,13 @@ layout: default
 
 ## Hungarian Media
 
-[NAV adathalász támadás áldozatainak adatai kerültek nyilvánosságra](https://hup.hu/index.php/cikkek/20201016/nav_phishing_tamadas_magyar_aldozatainak_adatai_kerultek_nyilvanossagra)  
-[Hack és Lángos - HnLVIP017 - Albert és a Cujo AI](https://www.youtube.com/watch?v=O3mk8oRD-QI)  
-[Magyar számítógépeket is fertőzni kezdett egy új orosz kártevő](https://pcforum.hu/hirek/21680/magyar-szamitogepeket-is-fertozni-kezdett-egy-uj-orosz-kartevo)  
-[Orosz eredetű kártevő támad Magyarországon is](https://computerworld.hu/biztonsag/orosz-eredetu-kartevo-tamad-magyarorszagon-is-267556.html)  
-[Csaló Apex Legends/CSGO játékosok estek adathalászok csapdájába](https://www.gamestar.hu/hir/apex-legends-csgo-csalas-adatlopas-267091.html)  
-[Több száz CS:GO és Apex Legends csaló banki adatait lophatták el](https://esport1.hu/news/2019/08/15/csgo-counter-strike-apex-legends-csalok-banki-adatait-loptak-el-malware-oroberto)  
+[HUP: NAV adathalász támadás](https://hup.hu/index.php/cikkek/20201016/nav_phishing_tamadas_magyar_aldozatainak_adatai_kerultek_nyilvanossagra)  
+[Hack és Lángos: HnLVIP017 - Albert és a Cujo AI](https://www.youtube.com/watch?v=O3mk8oRD-QI)  
+[PC Forum: Baldr kártevő](https://pcforum.hu/hirek/21680/magyar-szamitogepeket-is-fertozni-kezdett-egy-uj-orosz-kartevo)  
+[PC Guru: Baldr kártevő](https://www.pcguru.hu/hirek/fortnite-adatlopo-programmal-felturbozott-csalasra-faztak-ra-tobben/50382)  
+[ComputerWorld: Baldr kártevő](https://computerworld.hu/biztonsag/orosz-eredetu-kartevo-tamad-magyarorszagon-is-267556.html)  
+[GameStar: Baldr kártevő](https://www.gamestar.hu/hir/apex-legends-csgo-csalas-adatlopas-267091.html)  
+[GameStar: Baldr kártevő](https://esport1.hu/news/2019/08/15/csgo-counter-strike-apex-legends-csalok-banki-adatait-loptak-el-malware-oroberto)  
 
 ## About me
 
