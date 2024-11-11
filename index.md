@@ -3,6 +3,7 @@ layout: default
 ---
 ## Research and Analysis
 
+[Latrodectus: A year in the making](https://www.vmray.com/latrodectus-a-year-in-the-making/)  
 [Home Network Security Monitoring 101](https://www.linkedin.com/pulse/home-network-security-monitoring-101-albert-zsigovits)  
 [Yanluowang Ransomware Analysis](https://github.com/albertzsigovits/malware-notes/tree/master/Ransomware-Windows-Yanluowang)  
 [Malware Mutant Collection](https://github.com/albertzsigovits/malware-mutex)  
