@@ -3,6 +3,7 @@ layout: default
 ---
 ## Research and Analysis
 
+[Cascading layers of modern malware deployment through droppers and loaders](https://x.com/vmray/status/1978805741302481197)  
 [Latrodectus: A year in the making](https://www.vmray.com/latrodectus-a-year-in-the-making/)  
 [Home Network Security Monitoring 101](https://www.linkedin.com/pulse/home-network-security-monitoring-101-albert-zsigovits)  
 [Yanluowang Ransomware Analysis](https://github.com/albertzsigovits/malware-notes/tree/master/Ransomware-Windows-Yanluowang)  
@@ -48,6 +49,8 @@ layout: default
 
 ## Conference talks
 
+[SANS Fall Cyber Solutions Fest 2025 - Latrodectus](https://www.sans.org/webcasts/fall-cyber-solutions-fest-2025-threat-track)  
+[VirusBulletin 2025 - Latrodectus](https://www.virusbulletin.com/conference/vb2025/abstracts/arachnid-alert-latrodectus-loader-crawls-through-defences/)  
 [BSidesBUD 2023 - Memory Forensics 101 workshop](https://2023.bsidesbud.com/schedule/)  
 [AVAR 2022 - Evolution of a ransomware strain](https://aavar.org/cybersecurity-conference/index.php/from-red-to-black-and-beyond-evolution-of-a-ransomware-strain/)  
 [Hacktivity 2022 - Evolution of a ransomware strain](https://www.youtube.com/watch?v=lOvXHkcd7vE)  
