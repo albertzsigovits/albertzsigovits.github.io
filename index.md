@@ -3,7 +3,7 @@ layout: default
 ---
 ## Research and Analysis
 
-[Cascading layers of modern malware deployment through droppers and loaders](https://x.com/vmray/status/1978805741302481197)  
+[Cascading layers of malware deployment via droppers-loaders](https://x.com/vmray/status/1978805741302481197)  
 [Latrodectus: A year in the making](https://www.vmray.com/latrodectus-a-year-in-the-making/)  
 [Home Network Security Monitoring 101](https://www.linkedin.com/pulse/home-network-security-monitoring-101-albert-zsigovits)  
 [Yanluowang Ransomware Analysis](https://github.com/albertzsigovits/malware-notes/tree/master/Ransomware-Windows-Yanluowang)  
@@ -68,7 +68,7 @@ layout: default
 [PC Guru: Baldr kártevő](https://www.pcguru.hu/hirek/fortnite-adatlopo-programmal-felturbozott-csalasra-faztak-ra-tobben/50382)  
 [ComputerWorld: Baldr kártevő](https://computerworld.hu/biztonsag/orosz-eredetu-kartevo-tamad-magyarorszagon-is-267556.html)  
 [GameStar: Baldr kártevő](https://www.gamestar.hu/hir/apex-legends-csgo-csalas-adatlopas-267091.html)  
-[GameStar: Baldr kártevő](https://esport1.hu/news/2019/08/15/csgo-counter-strike-apex-legends-csalok-banki-adatait-loptak-el-malware-oroberto)  
+[Esport1: Baldr kártevő](https://esport1.hu/news/2019/08/15/csgo-counter-strike-apex-legends-csalok-banki-adatait-loptak-el-malware-oroberto)  
 
 ## About me
 
