@@ -49,6 +49,7 @@ layout: default
 
 ## Conference talks
 
+[Botconf 2026 - Inside Stories of Malware Config Extraction](https://www.botconf.eu/botconf-2026/#session/PRKMGZ/)  
 [SANS Fall Cyber Solutions Fest 2025 - Latrodectus](https://www.sans.org/webcasts/fall-cyber-solutions-fest-2025-threat-track)  
 [VirusBulletin 2025 - Latrodectus](https://www.virusbulletin.com/conference/vb2025/abstracts/arachnid-alert-latrodectus-loader-crawls-through-defences/)  
 [BSidesBUD 2023 - Memory Forensics 101 workshop](https://2023.bsidesbud.com/schedule/)  
